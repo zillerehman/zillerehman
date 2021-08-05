@@ -11,7 +11,9 @@
      **Key Qualifications & Responsibilities**
 
      Identified test scenarios, estimated test effort, and created test plans.
+     
      Maintained regression test suite and other testing scenarios.
+     
      Created key metrics and audit processes to ensure established goals were met.
      
      **Key Achievements**
