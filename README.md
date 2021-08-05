@@ -3,7 +3,9 @@
      outcomes should match what's expected and meet, satisfy the need that we created the product for.
      
      **Software Test Engineer**
+     
      January 2013–December 2018
+     
      Campus managment system app, Punjab, Pakistan
 
      **Key Qualifications & Responsibilities**
@@ -12,10 +14,12 @@
      Maintained regression test suite and other testing scenarios.
      Created key metrics and audit processes to ensure established goals were met.
      
-    ** Key Achievements**
+     **Key Achievements**
 
      Accomplished a QAS score on key metrics of 99.95%
+     
      Decreased IT workload by 20% due to improvement of QA processes.
+     
 
 - 🌱 I’m currently learning for diffrenet stacks to be full stack developer being a test
 - 💞️ I’m looking to collaborate on finding bug and issue on different apps and techinology
