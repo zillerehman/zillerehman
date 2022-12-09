@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning for diffrenet stacks to be full stack developer being a test
 - 💞️ I’m looking to collaborate on finding bug and issue on different apps and techinology
-- 📫 Whatsapp me : +923226676296
- +923047320339
+- 📫 Whatsapp me : +923047320339 , +923226676296
+ 
 - LinkedIn : https://www.linkedin.com/in/zille-rehman/
 
